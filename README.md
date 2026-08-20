@@ -1,1 +1,0 @@
-# quran_explorer
